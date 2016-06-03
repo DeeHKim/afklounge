@@ -1,0 +1,59 @@
+{
+  "name": "afklounge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbai001/afklounge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbai001/afklounge/issues"
+  },
+  "homepage": "https://github.com/lbai001/afklounge#readme",
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "react-hot-loader": "^1.3.0",
+    "react-toggle": "^2.1.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "axios": "^0.12.0",
+    "bcrypt": "^0.8.6",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "bookshelf": "^0.9.5",
+    "bootstrap": "^3.3.6",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "firebase": "^3.0.3",
+    "font-awesome": "^4.6.3",
+    "grunt": "^1.0.1",
+    "jquery": "^2.2.4",
+    "knex": "^0.11.5",
+    "lodash": "^4.13.1",
+    "morgan": "^1.7.0",
+    "mysql": "^2.10.2",
+    "path": "^0.12.7",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-form": "^5.2.5",
+    "redux-promise": "^0.5.3",
+    "socket.io": "^1.4.6",
+    "socket.io-client": "^1.4.6",
+    "underscore": "^1.8.3"
+  }
+}
